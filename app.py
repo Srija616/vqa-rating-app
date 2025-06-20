@@ -7,11 +7,16 @@ DATA_PATH = "data_native.csv"
 RATING_PATH = "rated_native.csv"
 
 df = pd.read_csv(DATA_PATH)
+
 if os.path.exists(RATING_PATH):
-    rated_df = pd.read_csv(RATING_PATH)
-    rated_ids = set(rated_df['id'])
+    try:
+        rated_df = pd.read_csv(RATING_PATH)
+        rated_ids = set(rated_df['id'])
+    except pd.errors.EmptyDataError:
+        rated_df = pd.DataFrame(columns=['id', 'email', 'rating'])
+        rated_ids = set()
 else:
-    rated_df = pd.DataFrame(columns=['id', 'rating'])
+    rated_df = pd.DataFrame(columns=['id', 'email', 'rating'])
     rated_ids = set()
 
 # Filter unrated
@@ -36,4 +41,4 @@ else:
         new_row = pd.DataFrame([{'id': row['id'], 'rating': rating}])
         rated_df = pd.concat([rated_df, new_row], ignore_index=True)
         rated_df.to_csv(RATING_PATH, index=False)
-        st.experimental_rerun()
+        st.rerun()
