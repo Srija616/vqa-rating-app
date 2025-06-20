@@ -1,0 +1,51 @@
+id,image_path,question,model_answer,correct_answer
+061bac0f94,images/Amharic/061bac0f94.jpg,What is the instrument the person is holding?,Banjo,Masinko
+36804fcbd1,images/Amharic/36804fcbd1.jpg,What does this company mainly produce?,doughnuts,Beer
+27b42a341b,images/Amharic/27b42a341b.jpg,What is the name of this instrument ?,Djembe,Kebero
+8f1dbd7eb2,images/Amharic/8f1dbd7eb2.jpg,In which region of Ethiopia is this dam located?,Southern,Benshangul
+2d06d15cf0,images/Amharic/2d06d15cf0.jpg,What is the name of this Dam?,Three Gorges Dam,Renaissance
+ccd9bcfc43,images/Amharic/ccd9bcfc43.jpg,Which Prime Minister started this dam?,neil mendelsohn,Meles Zenawi
+3efc9d2add,images/Amharic/3efc9d2add.jpg,Who was the Prime Minister of Ethiopia when this version of the Ethiopian birr was introduced?,Meles Zenawi,Meles Zenawi
+364d59d8d0,images/Amharic/364d59d8d0.jpg,Who owns the tallest building in this photo?,unanswerable,Commercial bank of Ethiopia
+234889e6d2,images/Amharic/234889e6d2.jpg,Which famous hotel can be seen in this image?,metropolitan hotel,Sheraton
+e11c34f892,images/Amharic/e11c34f892.jpg,What is this game called?,polo,Gebeta
+652f2542c5,images/Amharic/652f2542c5.jpg,What kind of things do you need mainly to play this game?,rocks,Pebbels
+be1c7200ec,images/Amharic/be1c7200ec.jpg,Who built this?,Ramanuja,King Lalibela
+bf00811c22,images/Amharic/bf00811c22.jpg,What is the name of the town this place is located?,answering does not require reading text in the image,Lalibela
+4d300b3bf6,images/Amharic/4d300b3bf6.jpg,Which war did this king won?,african,Adwa
+02f77a0537,images/Amharic/02f77a0537.jpg,Who was the wife of this king?,menelek,Empress Tayitu
+0dbc975820,images/Amharic/0dbc975820.jpg,What is the name of the project that beautify this road?,lanes,Corridor
+5c9917475a,images/Amharic/5c9917475a.jpg,Which prime minister started this project?,shanghai,Abiy Amhed
+c649e9b7d4,images/Amharic/c649e9b7d4.jpg,Where is this place?,unanswerable,Science Museum
+6b94abd223,images/Amharic/6b94abd223.jpg,Who inaugurated the opening of this place?,president,Abiy Ahmed
+3c247b201b,images/Amharic/3c247b201b.jpg,What is the name of the green leaves?,rosemary,Tena Adam
+d57ef283f8,images/Amharic/d57ef283f8.jpg,What is the name of this food?,cake,Firfir
+498da8a735,images/Amharic/498da8a735.jpg,What is this person doing?,standing,He's praying
+215bd0169d,images/Amharic/215bd0169d.jpg,Where is this person standing?,In front of a door,Church
+d56aa917bb,images/Amharic/d56aa917bb.jpg,What is the name of this clothing?,Shirt,yehabehsa Kemis
+d087eec9e6,images/Amharic/d087eec9e6.jpg,What type of material is used to make this clothing?,Cotton,Cotton
+131745949e,images/Amharic/131745949e.jpg,Which Ethiopian emperor is most closely related with the this symbol?,haile selassie,Emperor Haile Selassie
+3c2d436ca3,images/Amharic/3c2d436ca3.jpg,What is this food called?,doro wot,Beyaynet
+952da5faa1,images/Amharic/952da5faa1.jpg,How do you eat this food?,With your hands,With bare hands
+4e11a7ff61,images/Amharic/4e11a7ff61.jpg,What is this food called?,injera,Tibs
+92131a937c,images/Amharic/92131a937c.jpg,What is the name of this church?,unanswerable,Holy Trinity Cathedral
+816e754a6a,images/Amharic/816e754a6a.jpg,What is this girl holding in her hands?,A stick,Moqomiya
+d03dc32760,images/Amharic/d03dc32760.jpg,What is the white cloth she's wearing?,Veil,Netela
+0923312765,images/Amharic/0923312765.jpg,What is the name of this food?,dosa,Injera
+4f70a49a58,images/Amharic/4f70a49a58.jpg,What is the taste of this food?,Sour,sour
+b795cb3ea8,images/Amharic/b795cb3ea8.jpg,What is this food made of?,flour,teff
+b305e7454b,images/Amharic/b305e7454b.jpg,Which region gives this car plate issued?,lvc,Oromiya
+6db30d292e,images/Amharic/6db30d292e.jpg,what is the name of this clothing?,blanket,Gabi
+5d7c5693fe,images/Amharic/5d7c5693fe.jpg,What is this clothing made of?,cotton,cotton
+22d68304fc,images/Amharic/22d68304fc.jpg,In which city is this car plate issued?,unanswerable,Addis Ababa
+c9358b413c,images/Amharic/c9358b413c.jpg,What is this car commonly called?,toyota corolla,"Lada,"
+3d0eee07ef,images/Amharic/3d0eee07ef.jpg,Who is the owner of this coffee shop?,KALDI,Tseday Asrat
+4361aaac8e,images/Amharic/4361aaac8e.jpg,What is the name of this coffee shop?,kaldi's,"Kaldi's,"
+dd871e00f0,images/Amharic/dd871e00f0.jpg,What is this drink in the image?  Machito,coffee,coffee
+c9871fe0bf,images/Amharic/c9871fe0bf.jpg,what is the use of the item next to the cup?,heat,smoke incense
+cb53528006,images/Amharic/cb53528006.jpg,What is this area called?,subway,Megenagn
+7a7da8f0ed,images/Amharic/7a7da8f0ed.jpg,In which holiday is this ring made?,st valentine,Palm Sunday
+2e4beac6e6,images/Amharic/2e4beac6e6.jpg,Who is the owner of this hotel?,Hilton,Ethiopian Airlines
+c7db2d3c9b,images/Amharic/c7db2d3c9b.jpg,What is the name of this hotel?,Hilton,Skylight
+a846a86e4d,images/Amharic/a846a86e4d.jpg,What is the name of this church?,unanswerable,Bole Medhanialem
+6f2682a969,images/Amharic/6f2682a969.jpg,In which sub city is this church found?,Colmar,Edna Mall

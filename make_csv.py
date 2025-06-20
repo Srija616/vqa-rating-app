@@ -37,11 +37,11 @@ def main(output_file, answer_key_file, qa_master_file, lang_choice, output_csv):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--output_file", default="/mnt/data/users/srija/Afri-CVQAv2/inferences/phi/image/text_no_context/output_open_ended.jsonl")
+    parser.add_argument("--output_file", default="/mnt/data/users/srija/Afri-CVQAv2/inferences/phi/image/text_en_no_context/output_open_ended.jsonl")
     parser.add_argument("--answer_key_file", default="/mnt/data/users/srija/CVQAv2/CVQAv2/datasets/metadata/answer_keys/et_am.jsonl")
     parser.add_argument("--qa_master_file", default="/mnt/data/users/srija/CVQAv2/CVQAv2/datasets/metadata/qa/master.jsonl")
     parser.add_argument("--lang", choices=["native", "english"], required=True)
-    parser.add_argument("--output_csv", default="data_native.csv")
+    parser.add_argument("--output_csv", default="data_english.csv")
     args = parser.parse_args()
 
     main(args.output_file, args.answer_key_file, args.qa_master_file, args.lang, args.output_csv)

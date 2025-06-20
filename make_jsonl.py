@@ -1,8 +1,8 @@
 import csv
 import json
 
-input_file = "/mnt/data/users/srija/annotation_app/vqa-rating-app/data_native.csv"
-output_file = "/mnt/data/users/srija/annotation_app/vqa-rating-app/data_native.jsonl"
+input_file = "/mnt/data/users/srija/annotation_app/vqa-rating-app/data_english.csv"
+output_file = "/mnt/data/users/srija/annotation_app/vqa-rating-app/data_english.jsonl"
 
 with open(input_file, newline='', encoding='utf-8') as csvfile, open(output_file, 'w', encoding='utf-8') as jsonlfile:
     reader = csv.DictReader(csvfile)
