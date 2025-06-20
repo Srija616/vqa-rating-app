@@ -3,8 +3,8 @@ import pandas as pd
 import os
 
 # Load data
-DATA_PATH = "data_eng.csv"
-RATING_PATH = "rated_eng.csv"
+DATA_PATH = "data_english.csv"
+RATING_PATH = "rated_english.csv"
 
 df = pd.read_csv(DATA_PATH)
 
